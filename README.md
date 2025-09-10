@@ -38,17 +38,28 @@ newsletter-signup-page/
 
 ## ⚡ Getting Started  
 
+Follow these steps to run the project locally:
+
+---
+
+## ⚡ Getting Started  
+
 Follow these steps to run the project locally:  
 
 ### 1️⃣ Clone the repository  
 ```bash
+git clone https://github.com/Syed-Muhammad-Talha/newsletter-signup-page.git
+```
 
 ### 2️⃣ Navigate to the project folder
+```bash
 cd newsletter-signup-page
+```
 
 ### 3️⃣ Open `index.html` in your browser  
+```bash
 That’s it 🎉 Your **Newsletter Signup Page** will be running locally.  
-
+```
 ---
 
 ## 📸 Demo  
@@ -80,10 +91,10 @@ Feel free to **fork this repo** and submit a **pull request**.
 
 ## 📩 Connect With Me  
 
-- 💼 [Facebook: DevCraft Projects](https://www.facebook.com/people/DevCraft-Projects/61578930997170/)  
-- 📷 [Instagram: @devcraftprojects](https://www.instagram.com/devcraftprojects)  
-- 🎥 [YouTube: DevCraft Projects](https://www.youtube.com/@devcraftprojects)  
-  
+- 💼 Facebook: DevCraft Projects  
+- 📷 Instagram: @devcraftprojects  
+- 🎥 YouTube: DevCraft Projects  
+
 ---
 
 ## 🏷️ Keywords  
