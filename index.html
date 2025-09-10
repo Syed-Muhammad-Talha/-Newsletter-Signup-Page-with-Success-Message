@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Newsletter Sign-up</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <main class="card fade-in" id="form-card">
+        <div class="card_content">
+            <h1>Stay Updated!</h1>
+            <p>Join 60,000+ product managers receiving monthly updates on:</p>
+            <ul class="benefits">
+                <li>Latest strategies for product growth & innovation</li>
+                <li>Actionable insights to measure success effectively</li>
+                <li>Proven frameworks to build what users truly need</li>
+            </ul>
+
+            <form id="signup-form">
+                <label for="email">Email Address</label>
+                <input type="email" id="email" placeholder="email@company.com" required>
+                <small class="error-msg" id="error-msg"></small>
+                <button type="submit" class="btn">Subscribe</button>
+            </form>
+        </div>
+        <div class="card_image"></div>
+    </main>
+
+    <section class="success hidden slide-up" id="success-card">
+        <div class="success_content">
+            <div class="icon bounce">✔</div>
+            <h1>Thanks for Subscribing!</h1>
+            <p>A confirmation email has been sent to <span id="user-email"></span>. Please open it and click the button inside to confirm your subscription.</p>
+        </div>
+        <button id="dismiss-btn" class="btn dark">Dismiss Message</button>
+    </section>
+
+    <script src="script.js"></script>
+</body>
+</html>
