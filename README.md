@@ -64,7 +64,7 @@ That’s it 🎉 Your **Newsletter Signup Page** will be running locally.
 
 ## 📸 Demo  
 
-🔗 **YouTube Tutorial:** [Watch on YouTube](https://youtu.be/abcd1234)  
+🔗 **YouTube Tutorial:** [Watch on YouTube]([https://youtu.be/BshlJAW3f6U)  
 
 ---
 
